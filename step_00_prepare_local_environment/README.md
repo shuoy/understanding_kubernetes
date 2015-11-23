@@ -49,7 +49,7 @@ Bringing machine 'host0' up with 'virtualbox' provider...
          host0: /vagrant => /Users/shuoy/prototyping/understanding_kubernetes/step_00_prepare_local_environment    
 ```
 
-After the above VM booting is finished, you should be able to ssh into the VM and can see the latest Docker engine has been installed -- this means you have successfully used Vagrant to boot a VM. i.e., a final proof that ___your Vagrant/Virtualbox setup is successful.___
+After the above VM booting is finished, you should be able to ssh into the VM -- this means you have successfully used Vagrant to boot a VM. i.e., a final proof that ___your Vagrant/Virtualbox setup is successful.___
 
 ```
 $vagrant ssh
@@ -73,8 +73,4 @@ Welcome to Ubuntu 14.04.3 LTS (GNU/Linux 3.13.0-68-generic i686)
 
 0 packages can be updated.
 0 updates are security updates.
-
-
-vagrant@host0:~$docker --Version
-Docker version 1.9.0, build 76d6bc9
 ```

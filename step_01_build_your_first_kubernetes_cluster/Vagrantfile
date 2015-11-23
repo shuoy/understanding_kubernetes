@@ -4,6 +4,7 @@
 hosts = {
   "master" => "192.168.33.10",
   "minion" => "192.168.33.11",
+  "client" => "192.168.33.12",
 }
 
 Vagrant.configure("2") do |config|

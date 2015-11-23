@@ -11,4 +11,7 @@ confidence in building and using a real Kubernetes cluster.
 Note: we will be building an HA Kubernetes cluster in
 [the later step in this tutorial](../step_09_build_your_ha_kubernetes_cluster/README.md)
 
-###
+### Prepare VMs with Docker engine installed
+
+If you do a diff between the Vagrantfile here and the Vagrantfile in
+[previous step](../step_00_prepare_local_environment/Vagrantfile)
