@@ -21,6 +21,8 @@ This tutorial presents Kubernetes step-by-step.
 - Write a Kubernetes application as the development team
 - Manage Kubernetes system
 - Kubernetes in cloud(s)
+  - Dynamic inventory from AWS
+  - Dyanmic inventory from GCE
 
 
 ### Contributors (to be added)
